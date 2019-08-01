@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Oswald');
+
+body {
+    width: 1400px;
+    height: 1000px;
+    
+    text-align: center;
+    
+    background: url(../images/Bernal_.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: 'Merriweather', serif;
+    font-size: 125px;
+    font-weight: 800;
+    color: #9b816a;
+    opacity: .5;
+    margin-top: 500px;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 70px;
+    font-weight: 200;
+    color: #c5d6d1;
+}
+
+p {
+    font-family: 'Oswald';
+    color: #666;
+    font-size: 16px;
+    margin-top: 40px;
+}
+
+
+img {
+    margin-top: 60px;
+    border: 1px dashed #666;
+}
+
+a{
+    color:#666;
+}
+
